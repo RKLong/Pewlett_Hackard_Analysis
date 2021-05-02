@@ -17,7 +17,7 @@ The purpose of the study is to determine the number of retiring employees per ti
 ## Job Titles that will be left Vacant
 * There are several  job titles from each of the  different departments that need to be filled as the employees retire. The positions that will be left vacant have varying numbers. A majority of the retirees are Senior Engineers and Senior Staff. The table provided below shows the positions that will be vacated, in terms of the number of positions available in descending order.
 
-![Determining_county_turnouts](Resources/county_vote_counts1.png)
+![Determining_county_turnouts](resources/retiring_titles.png)
 
 ## Employees Eligible for Mentorship
 * After filtering the data based on the birthdate and the year 1965, we were also able to create a table showing employees that were eligible for mentorship. I believe 
