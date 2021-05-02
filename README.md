@@ -29,7 +29,7 @@ If retirement was solely based on birthdates (1952-1955), the company would have
 
 There are not that many employees eligible for mentorship for the titles that need to be filled. An example would be for the Manager position. The list below shows the number of titles of employees eligible for mentorship.
 
-![mentorship_eligibility](resources/Mentorship_eligibility.png)
+![mentorship_eligibility](resources/mel_titles.png)
 
 Human Resources would probably need to develop or fast track its employee training and development to meet the company’s needs or to hire suitable candidates for soon-to-be vacated positions externally. Hopefully, the data provided in the other tables can help HR prioritize what positions need to have trainees, whether promoted internally or hired externall, as soon as possible; the dates on the necessary tables, just need to be arranged chronologically.
 
