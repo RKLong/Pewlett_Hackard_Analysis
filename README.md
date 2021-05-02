@@ -22,7 +22,7 @@ The purpose of the study is to determine the number of retiring employees per ti
 ## Employees Eligible for Mentorship
 * After filtering the data based on the birthdate and the year 1965, we were also able to create a table showing employees that were eligible for mentorship. I believe 
 
-![Mentorship]()
+![Mentorship](resources/Mentorship_eligibility.png)
 
 # Summary
 If retirement was solely based on birthdates (1952-1955), the company would have a total of 90,398 employees with titles retiring within the next four years. 
