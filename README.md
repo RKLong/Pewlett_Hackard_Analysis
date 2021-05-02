@@ -18,6 +18,8 @@ The purpose of the study is to determine the number of retiring employees per ti
 
 
 # Summary
-If retirement was solely based on birthdates (1952-1955), the company would have a total of 90,398 employees with titles retiring within the next four years. There are not that many employees eligible for mentorship for the titles that need to be filled. An example would be for the Manager position. Human Resources would probably need to develop or fast track its employee training and development to meet the company’s needs or to hire suitable candidates for soon to be vacated positions externally. Hopefully, the data provided in the tables can help prioritize what positions need to have trainees as soon as possible; the dates, just need to be arranged chronologically.
+If retirement was solely based on birthdates (1952-1955), the company would have a total of 90,398 employees with titles retiring within the next four years. 
+
+There are not that many employees eligible for mentorship for the titles that need to be filled. An example would be for the Manager position. Human Resources would probably need to develop or fast track its employee training and development to meet the company’s needs or to hire suitable candidates for soon-to-be vacated positions externally. Hopefully, the data provided in the other tables can help HR prioritize what positions need to have trainees, whether promoted internally or hired externall, as soon as possible; the dates on the necessary tables, just need to be arranged chronologically.
 
 The table below shows the titles that will be left vacant with the number of retirees leaving on the left and the number of employees eligible for mentorship on the right. The query I used to come up with the table is also included below.  
