@@ -2,7 +2,7 @@
 Module 7 - UCB Bootcamp Employee Database with SQL
 
 # Overview of the Analysis
-The purpose of the study is to determine the number of retiring employees per title as well as identify employees who are eligible for mentorship.
+The purpose of the study is to determine the number of retiring employees per title as well as identify employees who are eligible for mentorship in the company.
 
 # Results
 ## Retiring Employees
