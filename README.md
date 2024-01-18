@@ -10,7 +10,7 @@ The purpose of the study is to determine the number of retiring employees per ti
 
 ![retiring_employees_multiple_entries](resources/Retirement_titles.png)
 
-* After removing the duplicate entries of employees from the previous table, it show us that there are 90,398 employees retiring within the next four years
+* After removing the duplicate entries of employees from the previous table, it show us that there are 90,398 employees retiring within the next four years.
 
 ![etiring_employees_single_entries](resources/Unique_titles.png)
 
@@ -20,7 +20,7 @@ The purpose of the study is to determine the number of retiring employees per ti
 ![Determining_county_turnouts](resources/retiring_titles.png)
 
 ## Employees Eligible for Mentorship
-* After filtering the data based on the birthdate and the year 1965, we were also able to create a table showing employees that were eligible for mentorship. I believe 
+* After filtering the data based on the birthdate and the year 1965, we were also able to create a table showing employees that were eligible for mentorship. 
 
 ![Mentorship](resources/Mentorship_eligibility.png)
 
